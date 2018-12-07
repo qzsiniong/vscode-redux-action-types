@@ -4,6 +4,7 @@
     "description": "",
     "version": "0.0.1",
     "publisher": "redux-action-types",
+    "repository": "https://github.com/qzsiniong/vscode-redux-action-types.git",
     "engines": {
         "vscode": "^1.29.0"
     },
